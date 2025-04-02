@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Allow the vault path and the letter file
+!01_vault/
+!01_vault/.etherpulse/
+!01_vault/.etherpulse/archive/
+!01_vault/.etherpulse/archive/k-txt/
+!01_vault/.etherpulse/archive/k-txt/Kyler_Legacy_Letter_to_Kimberly.txt
